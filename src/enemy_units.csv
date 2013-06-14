@@ -1,0 +1,57 @@
+Defend order, Name, Abbrev, HP, Dmg min, Dmg max, Accuracy, Exp., Attack phase, Tower bonus, Splash dmg, Weakest target
+1, Tribesman, TM, 40, 15, 30, 80%, 2, 2, No, No, No
+2, Shaman, SHA, 5, 0, 5, 60%, 1, 1, No, No, Yes
+3, Jaguar warrior, JAG, 90, 60, 120, 90%, 2, 3, No, Yes, No
+4, Night Spawn, AdN, 35000, 700, 800, 75%, 500, 1, No, Yes, Yes
+5, Jomviking, JoW, 140, 60, 80, 95%, 14, 3, No, No, No
+6, Wild Mary, DwW, 60000, 740, 800, 50%, 430, 1, No, Yes, No
+7, Chuck, CK, 9000, 2000, 2500, 50%, 250, 3, No, Yes, No
+8, Metal Toothed, MG, 11000, 250, 500, 50%, 160, 3, No, Yes, No
+9, Scavenger, PL, 40, 15, 30, 60%, 4, 2, No, No, No
+10, Thug, SL, 60, 20, 40, 60%, 3, 2, No, No, No
+11, Guard Dog, WH, 5, 5, 10, 60%, 4, 1, No, No, Yes
+12, Roughneck, RB, 90, 20, 40, 60%, 6, 2, No, No, No
+13, Stone Thrower, SW, 10, 20, 40, 60%, 3, 2, Yes, No, No
+14, Ranger, WL, 10, 30, 60, 60%, 4, 2, Yes, No, No
+15, Skunk, ST, 5000, 1, 100, 50%, 200, 3, No, Yes, No
+16, One-Eyed Bert, EB, 6000, 300, 500, 50%, 100, 3, No, Yes, No
+17, Caltrop, KF, 4, 0, 20, 33%, 1, 1, No, No, Yes
+18, Deckscrubber, DSc, 15, 10, 15, 50%, 1, 2, No, No, No
+19, Saber-rattler, SR, 30, 10, 20, 50%, 2, 2, No, No, No
+20, Crazy Cook, VS, 5000, 200, 300, 66%, 200, 1, No, Yes, No
+21, Gunman, PS, 5, 20, 30, 50%, 2, 2, Yes, No, No
+22, Knifethrower, MW, 5, 10, 20, 50%, 1, 2, Yes, No, No
+23, Petty officer 2nd class, MA, 60, 40, 60, 70%, 6, 2, No, Yes, Yes
+24, Recruit Deserter, DR, 40, 15, 30, 60%, 2, 2, No, No, No
+25, Militia Deserter, DM, 60, 20, 40, 60%, 4, 2, No, No, No
+26, Cavalry Deserter, DC, 5, 5, 10, 60%, 4, 1, No, No, Yes
+27, Soldier Deserter, DS, 90, 20, 40, 65%, 6, 2, No, No, No
+28, Elite Soldier Deserter, DE, 120, 20, 40, 70%, 8, 2, No, No, No
+29, Bowman Deserter, DB, 10, 20, 40, 60%, 3, 2, Yes, No, No
+30, Cultist, KU, 40, 15, 30, 80%, 3, 2, No, No, No
+31, Swamp Witch, SH, 13000, 400, 600, 75%, 250, 1, No, Yes, No
+32, Shadowsneaker, SS, 5, 0, 5, 60%, 6, 1, No, No, Yes
+33, Fanatic, FA, 20, 30, 60, 90%, 6, 2, Yes, No, No
+34, Dark Priest, DP, 20, 40, 80, 100%, 8, 2, Yes, No, No
+35, Firedancer, FT, 30, 60, 120, 100%, 14, 2, Yes, No, No
+36, Dancing Dervish, TD, 90, 60, 120, 90%, 20, 3, No, Yes, No
+37, Dark High Priest, DHP, 15000, 800, 1000, 75%, 350, 3, No, Yes, No
+38, Nomad, NO, 30, 10, 20, 60%, 2, 2, No, No, No
+39, Lance Rider, LR, 20, 5, 20, 90%, 4, 1, No, No, Yes
+40, Riding Bowman, BB, 20, 30, 40, 90%, 6, 1, No, No, Yes
+41, Housecarl, HK, 140, 40, 50, 90%, 10, 3, No, No, No
+42, Karl, Kar, 80, 40, 50, 90%, 6, 3, No, No, No
+43, Thrall, Th, 60, 20, 25, 85%, 3, 3, No, No, No
+44, Valkyrie, WK, 10, 20, 40, 60%, 3, 2, No, No, No
+45, Berserk, Ber, 90, 20, 40, 70%, 20, 3, No, Yes, No
+46, Riding Amazonian, BA, 20, 40, 60, 90%, 8, 1, No, No, Yes
+47, Cataphract, KPH, 20, 90, 90, 100%, 12, 1, No, No, Yes
+48, Uproarious Bull, BS, 2000, 120, 120, 100%, 50, 1, No, No, No
+49, Longbow Deserter, DLB, 10, 30, 60, 60%, 5, 2, Yes, No, No
+50, Crossbow Deserter, DA, 10, 45, 90, 60%, 7, 2, Yes, No, No
+51, Cannoneer Deserter, DK, 60, 60, 120, 70%, 15, 3, Yes, No, No
+52, Sir Robin, SiR, 12000, 200, 600, 80%, 200, 1, No, Yes, Yes
+53, Big Bertha, DiB, 40000, 50, 150, 75%, 350, 3, No, Yes, Yes
+54, Wolf, WO, 10, 2, 3, 80%, 1, 1, No, No, No
+55, Striker, Str, 10, 0, 10, 80%, 10, 1, No, No, Yes
+56, Midfielder, MF, 10, 30, 60, 80%, 5, 2, Yes, No, No
